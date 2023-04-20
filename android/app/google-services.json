@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "46846239591",
+    "project_id": "pulsoscardiacos-57c47",
+    "storage_bucket": "pulsoscardiacos-57c47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46846239591:android:16a3d07d2b6655e7d785c2",
+        "android_client_info": {
+          "package_name": "com.example.bluetooh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46846239591-rfmojrvd24m7ubvo6jq9qo61ubai4qfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_OtEy--SVwdjCToSvSx9fpAs5PNEesXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46846239591-rfmojrvd24m7ubvo6jq9qo61ubai4qfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
